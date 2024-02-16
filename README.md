@@ -4,6 +4,8 @@
 
 ![KEY_DEFECTS](https://github.com/ROB6665/POWER_BI/assets/121626867/acb8b710-8d9b-477b-9bdb-8abc6f76a9df)
 
+![KEY_PRO](https://github.com/ROB6665/POWER_BI/assets/121626867/56158e10-cde0-497a-b634-f08148d83cd6)
+
 <hr>
 
 <h2 align="center"> Stacked Bar Chart </h2>
