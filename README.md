@@ -1,3 +1,7 @@
+<h2 align="center"> King_Kohli Dashboard </h2>
+
+![King_Kohli](https://github.com/ROB6665/POWER_BI/assets/121626867/ba8d459d-4ebb-4b30-8296-723e542cfaf5)
+
 <h2 align="center"> Keystone Project </h2>
 
 ![KEY_DETAILS](https://github.com/ROB6665/POWER_BI/assets/121626867/c3a0143a-9f7b-4a87-88c9-27620e7e7399)
