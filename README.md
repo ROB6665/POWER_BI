@@ -2,6 +2,18 @@
 
 ![King_Kohli](https://github.com/ROB6665/POWER_BI/assets/121626867/ba8d459d-4ebb-4b30-8296-723e542cfaf5)
 
+<hr>
+
+<h2 align="center"> Cars Dashboard </h2>
+
+![Cars 1](https://github.com/ROB6665/POWER_BI/assets/121626867/0179d08b-ca09-48cd-a5a7-a7f6db16266e)
+
+![Cars 2](https://github.com/ROB6665/POWER_BI/assets/121626867/7c3f54ba-7d2c-4854-b2d2-52d0e9ac900e)
+
+![Cars3](https://github.com/ROB6665/POWER_BI/assets/121626867/d109e5ab-f891-4a3c-84c1-dc0591bf1ac4)
+
+<hr>
+
 <h2 align="center"> Keystone Project </h2>
 
 ![KEY_DETAILS](https://github.com/ROB6665/POWER_BI/assets/121626867/c3a0143a-9f7b-4a87-88c9-27620e7e7399)
