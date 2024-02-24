@@ -1,3 +1,14 @@
+<h2 align="center"> Nike Dashboard </h2>
+
+
+![Screenshot 2024-02-24 143546](https://github.com/ROB6665/POWER_BI/assets/121626867/bfe3ca3f-0a5d-4932-9790-450a7433340b)
+
+![Screenshot 2024-02-24 144603](https://github.com/ROB6665/POWER_BI/assets/121626867/aba0b13c-8a29-4c8b-8f74-64da19b9dd35)
+
+![Screenshot 2024-02-24 144630](https://github.com/ROB6665/POWER_BI/assets/121626867/82f09cb5-e01d-46ad-8a14-f28b8827a7bf)
+
+<hr>
+
 <h2 align="center"> King_Kohli Dashboard </h2>
 
 ![King_Kohli](https://github.com/ROB6665/POWER_BI/assets/121626867/ba8d459d-4ebb-4b30-8296-723e542cfaf5)
