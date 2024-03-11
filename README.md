@@ -38,3 +38,8 @@
 <h2 align="center"> Stacked Column Chart </h2>
 
 ![Stacked Column Chart](https://github.com/ROB6665/POWER_BI/assets/121626867/31ac51ae-1ff8-4bbb-b0d6-3b20cbaba82b)
+
+<h2 align="center"> Clustered Bar Chart </h2>
+
+![Screenshot 2024-03-11 211055](https://github.com/ROB6665/POWER_BI/assets/121626867/bcb00667-2b07-4516-90d3-3265f6c36b7f)
+
