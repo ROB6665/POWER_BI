@@ -43,3 +43,8 @@
 
 ![Screenshot 2024-03-11 211055](https://github.com/ROB6665/POWER_BI/assets/121626867/bcb00667-2b07-4516-90d3-3265f6c36b7f)
 
+<h2 align="center"> Clustered Column Chart </h2>
+
+![Screenshot 2024-03-11 211122](https://github.com/ROB6665/POWER_BI/assets/121626867/5ed2a486-cb40-4124-8917-1068aea2e956)
+
+
