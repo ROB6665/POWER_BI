@@ -51,3 +51,6 @@
 
 ![Screenshot 2024-03-14 205042](https://github.com/ROB6665/POWER_BI/assets/121626867/218904c1-dcb2-41ed-874b-84cb2d241390)
 
+<h2 align="center"> 100% Stacked Column Chart </h2>
+
+![Screenshot 2024-03-14 205056](https://github.com/ROB6665/POWER_BI/assets/121626867/e3a29254-e9cd-45f6-adaf-a1315ff202be)
