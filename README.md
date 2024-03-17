@@ -9,6 +9,12 @@
 
 <hr>
 
+<h2 align="center"> Zomato Dashboard </h2>
+
+![Screenshot 2024-02-26 211519](https://github.com/ROB6665/POWER_BI/assets/121626867/0444338f-c2ff-4bfa-a778-c866d7c7e3f8)
+
+<hr>
+
 <h2 align="center"> King_Kohli Dashboard </h2>
 
 ![King_Kohli](https://github.com/ROB6665/POWER_BI/assets/121626867/ba8d459d-4ebb-4b30-8296-723e542cfaf5)
