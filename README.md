@@ -60,3 +60,7 @@
 <h2 align="center"> 100% Stacked Column Chart </h2>
 
 ![Screenshot 2024-03-19 083625](https://github.com/ROB6665/POWER_BI/assets/121626867/28ed3309-6e59-433c-9592-9c723170593f)
+
+<h2 align="center"> Line Chart </h2>
+
+![Screenshot 2024-03-19 083653](https://github.com/ROB6665/POWER_BI/assets/121626867/152faf94-d8c4-4718-9980-5242776db771)
