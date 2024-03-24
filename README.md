@@ -64,3 +64,7 @@
 <h2 align="center"> Line Chart </h2>
 
 ![Screenshot 2024-03-19 083653](https://github.com/ROB6665/POWER_BI/assets/121626867/152faf94-d8c4-4718-9980-5242776db771)
+
+<h2 align="center"> Line Area Chart </h2>
+
+![Screenshot 2024-03-19 083743](https://github.com/ROB6665/POWER_BI/assets/121626867/77c3b4d5-82f1-47c9-b9b1-11d545b57f95)
