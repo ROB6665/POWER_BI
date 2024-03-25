@@ -68,3 +68,7 @@
 <h2 align="center"> Line Area Chart </h2>
 
 ![Screenshot 2024-03-19 083743](https://github.com/ROB6665/POWER_BI/assets/121626867/77c3b4d5-82f1-47c9-b9b1-11d545b57f95)
+
+<h2 align="center"> Stacked Line Area Chart </h2>
+
+![Screenshot 2024-03-19 083758](https://github.com/ROB6665/POWER_BI/assets/121626867/79eedddf-d8de-4de3-b65d-c901463ebf28)
