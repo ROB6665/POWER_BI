@@ -72,3 +72,7 @@
 <h2 align="center"> Stacked Line Area Chart </h2>
 
 ![Screenshot 2024-03-19 083758](https://github.com/ROB6665/POWER_BI/assets/121626867/79eedddf-d8de-4de3-b65d-c901463ebf28)
+
+<h2 align="center"> Small Multiple Line Chart </h2>
+
+![Screenshot 2024-03-19 083709](https://github.com/ROB6665/POWER_BI/assets/121626867/b5863511-f9c5-4be6-9ead-483c8687a61d)
