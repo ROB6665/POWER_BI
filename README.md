@@ -76,3 +76,7 @@
 <h2 align="center"> Small Multiple Line Chart </h2>
 
 ![Screenshot 2024-03-19 083709](https://github.com/ROB6665/POWER_BI/assets/121626867/b5863511-f9c5-4be6-9ead-483c8687a61d)
+
+<h2 align="center"> Line+Staked Column Chart </h2>
+
+![Screenshot 2024-03-28 214602](https://github.com/ROB6665/POWER_BI/assets/121626867/6381ab02-3ca4-4b88-a647-7b108b9d00d8)
