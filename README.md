@@ -80,3 +80,7 @@
 <h2 align="center"> Line+Staked Column Chart </h2>
 
 ![Screenshot 2024-03-28 214602](https://github.com/ROB6665/POWER_BI/assets/121626867/6381ab02-3ca4-4b88-a647-7b108b9d00d8)
+
+<h2 align="center"> Line+Clustered Column Chart </h2>
+
+![Screenshot 2024-03-28 214623](https://github.com/ROB6665/POWER_BI/assets/121626867/179fb9ef-b4b2-4777-be00-2908a19b230a)
