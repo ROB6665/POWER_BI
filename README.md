@@ -1,6 +1,5 @@
 <h2 align="center"> Nike Dashboard </h2>
 
-
 ![Screenshot 2024-02-24 143546](https://github.com/ROB6665/POWER_BI/assets/121626867/bfe3ca3f-0a5d-4932-9790-450a7433340b)
 
 ![Screenshot 2024-02-24 144603](https://github.com/ROB6665/POWER_BI/assets/121626867/aba0b13c-8a29-4c8b-8f74-64da19b9dd35)
@@ -84,3 +83,8 @@
 <h2 align="center"> Line+Clustered Column Chart </h2>
 
 ![Screenshot 2024-03-28 214623](https://github.com/ROB6665/POWER_BI/assets/121626867/179fb9ef-b4b2-4777-be00-2908a19b230a)
+
+<h2 align="center"> Ribbon Chart </h2>
+
+![Screenshot 2024-03-28 214657](https://github.com/ROB6665/POWER_BI/assets/121626867/81eb4a93-5446-4528-8b90-95e6d7f87140)
+
