@@ -88,3 +88,7 @@
 
 ![Screenshot 2024-03-28 214657](https://github.com/ROB6665/POWER_BI/assets/121626867/81eb4a93-5446-4528-8b90-95e6d7f87140)
 
+<h2 align="center"> Waterfall Chart </h2>
+
+![Screenshot 2024-03-28 214725](https://github.com/ROB6665/POWER_BI/assets/121626867/977abdeb-0d39-4397-bcb9-a5d1a934e8bd)
+
