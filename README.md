@@ -92,3 +92,6 @@
 
 ![Screenshot 2024-03-28 214725](https://github.com/ROB6665/POWER_BI/assets/121626867/977abdeb-0d39-4397-bcb9-a5d1a934e8bd)
 
+<h2 align="center"> Funnel Chart </h2>
+
+![Screenshot 2024-03-28 214747](https://github.com/ROB6665/POWER_BI/assets/121626867/234dd301-064f-4cb4-80e4-ce3ffd0ac23a)
