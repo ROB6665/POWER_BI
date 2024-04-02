@@ -95,3 +95,8 @@
 <h2 align="center"> Funnel Chart </h2>
 
 ![Screenshot 2024-03-28 214747](https://github.com/ROB6665/POWER_BI/assets/121626867/234dd301-064f-4cb4-80e4-ce3ffd0ac23a)
+
+<h2 align="center"> Scatter Plot </h2>
+
+![Screenshot 2024-03-28 214837](https://github.com/ROB6665/POWER_BI/assets/121626867/b2c98a63-1c41-420e-88b2-9b6b67f97b61)
+
