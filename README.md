@@ -100,3 +100,8 @@
 
 ![Screenshot 2024-03-28 214837](https://github.com/ROB6665/POWER_BI/assets/121626867/b2c98a63-1c41-420e-88b2-9b6b67f97b61)
 
+<h2 align="center"> Pie Chart </h2>
+
+![Screenshot 2024-03-28 214905](https://github.com/ROB6665/POWER_BI/assets/121626867/0e0f0995-afd4-4401-b557-6fa19cedcdaf)
+
+
