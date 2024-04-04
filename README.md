@@ -104,4 +104,6 @@
 
 ![Screenshot 2024-03-28 214905](https://github.com/ROB6665/POWER_BI/assets/121626867/0e0f0995-afd4-4401-b557-6fa19cedcdaf)
 
+<h2 align="center"> Donut Chart </h2>
 
+![Screenshot 2024-04-04 181343](https://github.com/ROB6665/POWER_BI/assets/121626867/ab0c3fdf-ac3f-4609-ad7d-4dba0d7c68af)
