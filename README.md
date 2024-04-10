@@ -107,3 +107,7 @@
 <h2 align="center"> Donut Chart </h2>
 
 ![Screenshot 2024-04-04 181343](https://github.com/ROB6665/POWER_BI/assets/121626867/ab0c3fdf-ac3f-4609-ad7d-4dba0d7c68af)
+
+<h2 align="center"> Tree Map </h2>
+
+![Screenshot 2024-04-04 181359](https://github.com/ROB6665/POWER_BI/assets/121626867/a64ef2fc-f7c5-4989-855a-8a96936bb540)
