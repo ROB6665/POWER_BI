@@ -111,3 +111,7 @@
 <h2 align="center"> Tree Map </h2>
 
 ![Screenshot 2024-04-04 181359](https://github.com/ROB6665/POWER_BI/assets/121626867/a64ef2fc-f7c5-4989-855a-8a96936bb540)
+
+<h2 align="center"> Map </h2>
+
+![Screenshot 2024-04-04 181425](https://github.com/ROB6665/POWER_BI/assets/121626867/c682f622-69d2-4045-8a36-57c9d5e0e8c3)
