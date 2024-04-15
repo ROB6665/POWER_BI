@@ -119,3 +119,8 @@
 <h2 align="center"> Map + Pie </h2>
 
 ![Screenshot 2024-04-04 181444](https://github.com/ROB6665/POWER_BI/assets/121626867/32c367a8-6a76-415c-9f79-319d6e4a377d)
+
+<h2 align="center"> Filled Map </h2>
+
+![Screenshot 2024-04-04 181503](https://github.com/ROB6665/POWER_BI/assets/121626867/3ac072a8-a6e8-4b9b-b1c8-bedad5a65fdd)
+
