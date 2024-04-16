@@ -124,3 +124,7 @@
 
 ![Screenshot 2024-04-04 181503](https://github.com/ROB6665/POWER_BI/assets/121626867/3ac072a8-a6e8-4b9b-b1c8-bedad5a65fdd)
 
+<h2 align="center"> Colored Heat Map </h2>
+
+![Screenshot 2024-04-04 181520](https://github.com/ROB6665/POWER_BI/assets/121626867/a8a8ba33-ccd2-4bc9-82e5-3f526e6a58f9)
+
